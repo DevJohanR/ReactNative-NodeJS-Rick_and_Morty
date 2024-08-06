@@ -1,0 +1,22 @@
+###Dependencias instaladas:
+
+npm install @react-navigation/native
+
+
+npm install react-native-screens react-native-safe-area-context
+
+
+###Navegadores Especificos
+
+npm install @react-navigation/stack
+
+npm install @react-navigation/bottom-tabs
+
+npm install @react-navigation/drawer
+
+
+###React Native Gesture Handler (opcional, pero recomendado)
+
+Solo si voy a utilizar navegacion de tipo Drawer o cualquier otro tipo de gestos, es recomendable instalar:
+
+npm install react-native-gesture-handler
